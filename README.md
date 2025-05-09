@@ -11,6 +11,7 @@ https://leetcode.com/problems
 | # | Title | Solution | Difficulty | Tags |
 |---| ----- | -------- | ---------- | ---------- |
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/description/) [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)| [Python](./algorithms/python/FibonacciNumber/fibonacciNumber.py), [Java](./algorithms/java/src/FibonacciNumber/fibonacciNumber.java)|Easy|Math: 数学, Dynamic Programming: 动态规划, Recursion: 递归,Memoization: 记忆化搜索|
+|983|[最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/description/) [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)| [Java](./algorithms/java/src/MinimumCostForTickets/minimumCostForTickets.java)|Medium|Array: 数组, Dynamic Programming: 动态规划|
 
 
 
